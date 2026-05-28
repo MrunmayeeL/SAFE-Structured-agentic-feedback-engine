@@ -239,8 +239,3 @@ The benchmark is included as a submodule under `benchmarks/QuixBugs/`. Original 
 8. Yang et al., "SWE-agent: Agent-computer interfaces enable automated software engineering," arXiv 2024.
 9. Lin et al., "QuixBugs: A benchmark of algorithmic programs with bugs," 2017.
 
----
-
-## License
-
-This project is released for academic research purposes. The QuixBugs benchmark is subject to its own license — see `benchmarks/QuixBugs/LICENSE`.
